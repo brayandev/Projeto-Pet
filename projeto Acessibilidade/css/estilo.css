@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Css do link oculto de navagação*/
+.SkipNav {
+ color: #FFFFFF; 
+ text-decoration: none;
+ }
+
+ .SkipNav:active, .SkipNav:focus {
+ 
+ color: #0000FF; 
+ text-decoration: underline;
+ }
+
+header{
+    background-color: #ccc;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+main{
+}
+
+article{
+    height: 400px;
+    background-color: #ccc;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+section{
+    background-color: #ccc;
+    height: 100px;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+
