@@ -53,3 +53,11 @@ footer{
     border: 0;
 
 }
+
+.img-icon{
+
+    max-height: 40px;
+    margin-top: -10px;
+    margin-left: -5px;
+
+}
