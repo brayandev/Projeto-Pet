@@ -31,7 +31,6 @@ article{
 
 .TextoPrincipal2{
     margin-top: 50px;
-    float: right;
 }
 
 .CachorroConteudoPrincipal{
@@ -64,5 +63,38 @@ footer{
     max-height: 40px;
     margin-top: -10px;
     margin-left: -5px;
-
 }
+
+.menuArticle{
+    margin-top: 20px;
+    height: 200px;
+}
+
+.menuArticle ul li{
+    border:1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.menuArticle ul{
+    list-style-type:none;
+    width: 100%;
+}
+
+.articleCachorro{
+    height: 250px;   
+}
+
+.sectionHome{
+    height: 100px;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
+.asideSec{
+    background-color: #ccc;
+    height: 120px;
+    margin-top: -100px;
+}
+
+
+
