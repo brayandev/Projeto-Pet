@@ -350,3 +350,43 @@ input[type=submit]:hover {
     background-color: #f2f2f2;
     padding: 20px;
 }
+
+.paragrafo_1_Guia{
+    margin-top: 30px;
+}
+
+.titulosGuia{
+    background-color: #ffa100;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+}
+
+.paragrafoGuia{
+    text-align: justify;
+}
+
+.asideGuia{
+    margin-top: 0px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.tituloAsideGuia{
+    border-bottom: 1px solid #ccc;
+}
+
+.divArticleGuia{
+    margin-top: 40px;
+}
+
+.articleGuiaPet{
+    margin-left: 0px;
+}
+
+@media screen and (min-width: 970px) {
+      .articleGuiaPet {
+            margin-left: 120px;
+       }
+}
