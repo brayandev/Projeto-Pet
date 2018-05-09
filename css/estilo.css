@@ -391,3 +391,28 @@ input[type=submit]:hover {
        }
 }
 
+.articleAjude{
+    margin-left: 0px;
+}
+
+@media screen and (min-width: 992px) {
+      .articleAjude{
+            margin-left: 120px;
+       }
+}
+
+.asideAjude{
+	margin-top: 57px;
+}
+
+.asideAjude2{
+	margin-left: 0px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+@media screen and (min-width: 992px) {
+      .asideAjude2{
+            margin-left: 120px;
+       }
+}
