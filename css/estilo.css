@@ -131,6 +131,7 @@ footer {
     .navbar-default {
 
         height: 100px;
+        border: none;
 
     }
 
@@ -409,6 +410,7 @@ input[type=submit]:hover {
 
 .articleAjude {
     margin-left: 0px;
+    margin-top: 50px;
 }
 
 @media screen and (min-width: 992px) {
@@ -417,27 +419,55 @@ input[type=submit]:hover {
     }
 }
 
-.asideAjude {
-    margin-top: 57px;
+.asideImagemAnimal {
+    margin-top: 50px;
 }
 
-.asideAjude2 {
+.asideAjudeInstituicao {
     margin-left: 0px;
     margin-top: 80px;
     margin-bottom: 80px;
 }
 
 @media screen and (min-width: 992px) {
-    .asideAjude2 {
+    .asideAjudeInstituicao {
         margin-left: 120px;
     }
 }
 
+.tituloArticleAjude{
+    font-size: 36px;
+}
 
-.titleCentral {
-    
-    
+
+.titleCentral {   
     color: white;
     margin-top: 8em;
     margin-left: 4em;
 }
+
+.formAjudeInstituicao{
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    margin-top:-20px;
+    margin-bottom: 50px;
+    padding-top: 0px;
+}
+
+@media screen and (min-width: 991px) {
+    .formAjudeInstituicao {
+        margin-top:80px;
+        margin-bottom: 50px;
+        padding-top: 20px;
+    }
+}
+
+#btnEnviar{
+    margin-bottom: 10px;
+}
+
+#txtMensagem{
+    height: 100px;
+    resize: none;
+}
+
